@@ -1,3 +1,4 @@
+/* CSS RESET AND GLOBAL STYLES */
 * {
   padding: 0;
   margin: 0;
@@ -16,6 +17,7 @@ button {
   font-family: "Roboto", sans-serif;
 }
 
+/* HEADER STYLE */
 header {
   display: flex;
   justify-content: center;
@@ -26,6 +28,7 @@ header {
   background: #fff;
 }
 
+/* POST CONTENT STYLES */
 main {
   display: flex;
   justify-content: center;
