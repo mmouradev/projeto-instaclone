@@ -35,7 +35,7 @@ main {
   margin: 40px auto;
 }
 article {
-  width: 900px;
+  width: 40%;
   background: #fff;
   border: 1px solid #dbdbdb;
   border-radius: 2px;
@@ -45,6 +45,7 @@ article {
   display: flex;
   align-items: center;
   padding: 15px 20px;
+  color: #262626;
 }
 
 .avatar {
@@ -81,4 +82,9 @@ article {
 
 .icons i {
   margin-right: 5px;
+  color: #262626;
+}
+
+.fa-heart {
+  color: #f00 !important;
 }
